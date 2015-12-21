@@ -37,7 +37,7 @@
  Translation of buckets
  ======================
  Read the above like: "x ops failed to complete in xxx ms"
- Example: 14467 read ops failed to complete in 8ms (but faster than 16ms)
+ Example: 2341 read ops failed to complete in 8ms (but faster than 16ms)
 
  (06) => 32us    (0.032 ms)
  (07) => 64us    (0.064 ms)
