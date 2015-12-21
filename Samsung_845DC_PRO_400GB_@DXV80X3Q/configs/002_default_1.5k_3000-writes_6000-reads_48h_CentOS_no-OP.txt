@@ -1,0 +1,14 @@
+device-names: /dev/sda
+num-devices: 1
+queue-per-device: no
+num-queues: 8
+threads-per-queue: 8
+test-duration-sec: 172800
+report-interval-sec: 1
+microsecond-histograms: yes
+read-reqs-per-sec: 6000
+write-reqs-per-sec: 3000
+record-bytes: 1536
+large-block-op-kbytes: 128
+use-valloc: no
+scheduler-mode: noop
