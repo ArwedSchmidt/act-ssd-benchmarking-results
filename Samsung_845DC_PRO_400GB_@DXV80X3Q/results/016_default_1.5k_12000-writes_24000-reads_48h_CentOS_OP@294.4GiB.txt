@@ -5,7 +5,7 @@
  - not sure if 2 reads out of 4.15b failed..
  - still good, stable latency characteristics at 2-4ms and above
  - device shows periodic spikes every 4-5 secs (prominent)
- - not one operation took more than 16ms on device-level ! 
+ - very few operations took more than 16ms on device-level ! 
 
  
 
